@@ -2,7 +2,6 @@
 
 ## Project Overview
 - **Project Title**: Network Project Overview   
-- **Project Manager**: Abhinandan  
 - **Objective**: To gain the basic knowledge about networking
 
 - **Devices**: Routers, switches, computers, LAN cables  
